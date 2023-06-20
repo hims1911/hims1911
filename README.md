@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Discord ID](ParaN01D#2996), [mail](Sharmahimanshu1911@gmail.com)
 - ⚡ Fun fact: I play dota2 and CSGO🎮.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=${hims1911})
 
 
