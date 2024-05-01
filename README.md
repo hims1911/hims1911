@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working as Software Development Engineer 2 at Angel One - Angel One's [Github Account](https://github.com/HimanshuSharma-angel)
+- 🔭 I’m currently working as Software Development Engineer 3 at Angel One - Angel One's [Github Account](https://github.com/HimanshuSharma-angel)
 - 🌱 I’m currently learning and working on GO, DynamoDB & AWS
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: [Discord ID](ParaN01D#2996), [mail](Sharmahimanshu1911@gmail.com)
